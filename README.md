@@ -1,2 +1,2 @@
-# Initial page
+# Документация по боту Girin
 
